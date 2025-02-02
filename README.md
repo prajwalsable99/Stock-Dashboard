@@ -15,10 +15,7 @@ This is a **Stock Analysis Dashboard** built using **Streamlit**, **yfinance**, 
 To run the app locally, follow these steps:
 
 ### **1⃣ Clone the Repository**
-```bash
-git clone https://github.com/your-username/streamlit-stock-app.git
-cd streamlit-stock-app
-```
+
 
 ### **2⃣ Install Required Dependencies**
 Ensure you have Python installed, then install the dependencies:
@@ -28,18 +25,10 @@ pip install -r requirements.txt
 
 ### **3⃣ Run the Streamlit App**
 ```bash
-streamlit run app.py
+streamlit run home.py
 ```
 
-The app will open in your web browser at `http://localhost:8501/`.
 
-## 🚀 Deployment on Streamlit Cloud
-
-1. Push all changes to GitHub.
-2. Go to [Streamlit Cloud](https://share.streamlit.io/) and log in.
-3. Click **"New app"** and connect your GitHub repository.
-4. Select the `main` branch and set the entry point as `app.py`.
-5. Click **"Deploy"**.
 
 Your app will be hosted online at `https://your-app-name.streamlit.app`.
 
@@ -69,6 +58,3 @@ We welcome contributions! Feel free to **fork** the repo, submit **pull requests
 
 ---
 
-### 🔗 Links
-- **GitHub Repo**: [GitHub](https://github.com/your-username/streamlit-stock-app)
-- **Live App**: [Streamlit Cloud](https://your-app-name.streamlit.app)
