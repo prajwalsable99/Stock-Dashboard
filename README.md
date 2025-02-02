@@ -1,6 +1,11 @@
 # 📈 Streamlit Stock Analysis App
 
 This is a **Stock Analysis Dashboard** built using **Streamlit**, **yfinance**, **pandas**, and **Plotly**. The app allows users to analyze stock performance, visualize key financial metrics, and track stock price trends over different time periods.
+![image](https://github.com/user-attachments/assets/61df4557-9b81-41be-b537-276ae2998f39)
+![image](https://github.com/user-attachments/assets/78ea66b8-55d4-42a8-aac6-7f9b5002a93f)
+![image](https://github.com/user-attachments/assets/2034c89e-38b5-4362-b633-5b4c7334d537)
+![image](https://github.com/user-attachments/assets/9b5e4dd1-cd7c-4914-9632-283c3ed4e981)
+
 
 ## 🚀 Features
 - 📊 **Stock Price Charts** (Line & Candlestick)
